@@ -1,2 +1,2 @@
-# Tech Community Consulting Ltd.
-Welcome to the Tech Community website.
+# Tech Community Consulting
+Thanks for visiting the site! Tech Community Consulting was set up to help tech organisations connect with technical communities around the world. Adam Jackson is the founder and has over 10 years of experience working with Developers & IT Professionals in global and local communities. After his time at Microsoft working in Developer Relations, he was inspired to help a wider range of organisations build this capability.
