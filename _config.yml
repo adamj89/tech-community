@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Tech Community Consulting
 description: Tech Community Consulting Ltd. is an organisation set up by Adam Jackson to help the tech industry build connections with their communities.
+show_downloads: false
+google_analytics: 5887399836
