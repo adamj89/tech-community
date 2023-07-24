@@ -3,10 +3,20 @@
 
 # What we do
 We have experience in the following areas:
-- Help you build a network of user groups/meetups allied to your products
-- Nurture the trust of Developers & IT Professionals in the community
+- Helping you build a network of user groups/meetups allied to your products
+- Nurturing the trust of Developers & IT Professionals in the community
 - Creating and nurturing communities of speakers, organisers & writers _(I try to avoid using the word 'influencer' here!)_
 - Tech Event management - for your own conference or participation in one _(including help with your existing events)_
+- Organising your hackathons, whether in-person or online
+- Tech Marketing strategy
 - Online content & social strategy
 - Online video guidance & production services
 - Build your learning/docs strategy to skill devs & IT pros in your product
+
+## What we _don't_ (yet) do
+- Provide tech speakers or virtual advocacy for your organisation  - but we may be able to help you find the right person
+- Getting involved with your code or finding you developers for your projects
+
+# Organisation we've worked with
+- **Green Software Foundation**: Adam is currently spending most of his work week supporting the Green Software Foundation as their Senior Community Project Manager. The Green Software Foundation is building trusted ecosystem of people, standards, tooling and best practices for Green Software - helping software practitioners decarbonise their software. Adam's role there is to provide strategic consultancy to the Community Working Group and to be a hands-on PM for that group and the related projects including _Meetups, CarbonHack, Contributors & Experts & Learning_. He is also heavily involved in producing all events and works closely with GSF members including _Microsoft, GitHub, Google, Avanade & UBS_ to name a few.
+- **Microsoft**: Adam previously worked at Microsoft for over 10 years, with a vast portfolio of experience working with technical communities both in the UK and globally. He was responsible for the overall strategy for Developer Relations at Microsoft UK and also responsible for a portfolio of community activity across global events including Microsoft Build & Microsoft Ignite. He was responsible for the growth of the Microsoft Learn platform in the UK in the Developer & IT Pro communities.
