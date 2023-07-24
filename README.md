@@ -1,2 +1,2 @@
-# tech-community
-Tech Community Website
+# Tech Community Conslting Ltd.
+Welcome to the Tech Community website.
