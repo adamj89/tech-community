@@ -5,3 +5,5 @@ title: Tech Community Consulting
 description: Building connections between tech organisations & communities
 show_downloads: false
 google_analytics: G-LVZLZVPD77
+github:
+  is_project_page: false
