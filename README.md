@@ -12,6 +12,7 @@ We have experience in the following areas:
 - Creating and nurturing communities of speakers, organisers & writers _(I try to avoid using the word 'influencer' here!)_
 - Tech Event management - for your own conference or participation in one _(including help with your existing events)_
 - Organising your hackathons, whether in-person or online
+- Supporting Microsoft Partners in rolling-out new products to their customers or downstream partners
 - Tech Marketing strategy
 - Online content & social strategy
 - Online video guidance & production services
