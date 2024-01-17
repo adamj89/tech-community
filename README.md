@@ -7,11 +7,11 @@ Thanks for visiting the site! Tech Community Consulting was set up to help tech 
 
 # What we do
 We have experience in the following areas:
-- Helping you build a network of user groups/meetups allied to your products
+- Helping you build a network of user groups/meetups or partners allied to your products
 - Nurturing the trust of Developers & IT Professionals in the community
-- Creating and nurturing communities of speakers, organisers & writers _(I try to avoid using the word 'influencer' here!)_
+- Creating and nurturing communities of speakers, organisers & writers
 - Tech Event management - for your own conference or participation in one _(including help with your existing events)_
-- Organising your hackathons, whether in-person or online
+- Organising your tech bootcamps or hackathons, whether in-person or online
 - Supporting Microsoft Partners in rolling-out new products to their customers or downstream partners
 - Tech Marketing strategy
 - Online content & social strategy
