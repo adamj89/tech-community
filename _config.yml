@@ -1,9 +1,13 @@
-remote_theme: pages-themes/cayman@v0.2.0
+title: Tech Community Consulting
+tagline: Building connections between tech organisations & communities
+description: Building connections between tech organisations & communities | Tech Community Consulting
+permalink: pretty
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Tech Community Consulting
-description: Building connections between tech organisations & communities
+- jekyll-seo-tag
+- jekyll-sitemap
 show_downloads: false
 google_analytics: G-LVZLZVPD77
 github:
   is_project_page: false
+remote_theme: pages-themes/cayman@v0.2.0
