@@ -33,6 +33,8 @@ Adam is local to London and the South East of England but can travel UK-wide to 
 
 <!-- This is commented out. -->
 
+![Tech Community Graphic](https://github.com/adamj89/tech-community/blob/main/TCGraphic.png)
+
 
 
 
