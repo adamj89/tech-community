@@ -9,7 +9,7 @@
 
 # What we do
 We have experience in the following areas:
-- Helping you build a network of user groups/meetups or partners allied to your products
+- [Helping you build a network of user groups/meetups or partners allied to your products](https://tech-community.co.uk/meetups/)
 - Creating and nurturing communities of speakers, organisers & writers
 - Tech Event management - for your own conference or participation in one _(including help with your existing events)_
 - Online video guidance, production & delivery services
