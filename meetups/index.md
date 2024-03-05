@@ -13,17 +13,28 @@ Over the last 10 years, Adam has organised and coordinated countless meetups, us
 - Deliver long-term community or product growth from groups
 
 ### For Virtual Groups
-- Build a virtual playbook
+- Build a virtual playbook to build you and your team's confidence in hosting online events
 - Support your online events including hosting and producing online video
-- 
+- Produce a complimentary social strategy to maximise the reach of your online community
+
+### Hybrid Groups
+- Technical advice on equipment
+- Best practice for running of hybrid events to include both in-person and online audiences
 
 ## Where we work
 Adam is local to London and the South East of England but can travel UK-wide to support in-person launches, and can also travel internationally to support communities given notice.
 
-## Video/Imagery
-## Main Text Body (CTA link, form to fill out, bookings etc)
-## Contact Form/Bookings (ideally set to side)
-## Case Study (could be one off, links to blog posts)
-## Link to Homepage
-## Other Services offered (link list)
-## Company Number, Privacy Policy
+<!-- ## Video/Imagery -->
+<!-- ## Main Text Body (CTA link, form to fill out, bookings etc). --> 
+<!-- ## Contact Form/Bookings (ideally set to side) -->
+<!-- ## Case Study (could be one off, links to blog posts) -->
+<!-- ## Link to Homepage -->
+<!-- ## Other Services offered (link list) -->
+
+<!-- This is commented out. -->
+
+
+
+
+#### Legal Notice
+Tech Community Consulting Ltd. (company number 14746821) is a is a company registered in England and Wales.
