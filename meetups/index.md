@@ -36,7 +36,7 @@ Adam is local to London and the South East of England but can travel UK-wide to 
 ![Tech Community Graphic](https://github.com/adamj89/tech-community/blob/main/TCGraphic.png)
 
 
-### _[Return to Homepage](https://tech-community.co.uk)_
+#### 🏠 _[Return to Homepage](https://tech-community.co.uk)_
 
-#### Legal Notice
-Tech Community Consulting Ltd. (company number 14746821) is a is a company registered in England and Wales.
+### Legal Notice
+Tech Community Consulting Ltd. (company number 14746821) is a is a company registered in England and Wales. Please take a moment to view our [Terms & Conditions](https://tech-community.co.uk/terms-conditions) and [Privacy Policy](https://tech-community.co.uk/privacy).
