@@ -35,4 +35,4 @@ We'd love to hear from you! The easiest way of contacting us is [over email](mai
 
 ---
 ### Legal Notice
-Tech Community Consulting Ltd. (company number 14746821) is a is a company registered in England and Wales.
+Tech Community Consulting Ltd. (company number 14746821) is a is a company registered in England and Wales. Please take a moment to view our [Terms & Conditions](https://tech-community.co.uk/terms-conditions) and [Privacy Policy](https://tech-community.co.uk/privacy).
