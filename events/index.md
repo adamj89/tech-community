@@ -1,6 +1,6 @@
 # Technical Events
 
-Adam has over 10 years of experience organising technical events, whether first or third party and in size from intimate gatherings to over 10,000 people. 
+We can help you build a portfolio of technical events, whether first or third party and in size from intimate gatherings to over 10,000 people. 
 
 ## What we can offer you
 - Build your tech events strategy
@@ -16,7 +16,10 @@ Adam has over 10 years of experience organising technical events, whether first 
 - Produce a complimentary social strategy to maximise event engagement
 
 ### Third-party 
-- 
+- Identify portfolio of third-party events which will drive business value
+- Handle sponsorship process including design and construction of booth
+- Work with your team and community to submit incredible event talks
+- Represent your organisation "on the day" and support onsite efforts alongside your team
 
 ## Where we work
 Adam is local to London and the South East of England but can travel UK-wide to support in-person launches, and can also travel internationally to support communities given notice.
