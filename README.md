@@ -1,5 +1,5 @@
 # Tech Community Consulting
-**Tech Community Consulting** was set up to help tech organisations connect with communities, partners & new audiences around the world. 
+**Tech Community Consulting** was set up to help tech organisations connect with communities, partners & new audiences around the world, increasing product awareness & adoption. 
 
 **Adam Jackson** is the founder and has over 10 years of experience working with Developers & IT Professionals in global and local communities as well as the Microsoft Partner ecosystem. After his time at Microsoft working in Developer Relations, he was inspired to help a wider range of organisations build this capability.
 
