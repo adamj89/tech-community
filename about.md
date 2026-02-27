@@ -1,6 +1,3 @@
-# Tech Community Consulting
----
-
 ![Tech Community Graphic](TCGraphic.png)
 
 # Get in touch
